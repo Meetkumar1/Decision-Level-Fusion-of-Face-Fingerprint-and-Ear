@@ -8,7 +8,7 @@ Multimodal biometrics, a method of identifying people based on multiple biometri
 
 The objective of this project is to develop a multimodal biometric authentication application considering more than one biometric trait. User authentication will be performed with the use of three of the user’s biological traits: Face, Fingerprint, and Ear.
 
-Convolutional Neural Networks are used to train each of the user's biometric trait and make the prediction. It is a "User Verification" problem, where the system will predict whether the user is authorized to access or not. It is a binary classification problem for each convolutional neural network.
+Convolutional Neural Networks are used to train each of the user's biometric trait and make the prediction. It is a "User Verification" problem, where the system will predict whether the user is authorized to access or not. It is a binary classification problem for each convolutional neural network. All the CNNs are trained considering me as the "Authorized user" and rest all are "Unauthorized".
 
 Run the "exp.py" python file and an application GUI as shown in the image below will appear.
 

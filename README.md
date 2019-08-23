@@ -10,6 +10,7 @@ The objective of this project is to develop a multimodal biometric authenticatio
 
 Convolutional Neural Networks are used to train each of the user's biometric trait and make the prediction. It is a "User Verification" problem, where the system will predict whether the user is authorized to access or not. It is a binary classification problem for each convolutional neural network.
 
+Run the "exp.py" python file and an application GUI as shown in the image below will appear.
 
 <img src="pics/Picture1.jpg" width= "600">
 

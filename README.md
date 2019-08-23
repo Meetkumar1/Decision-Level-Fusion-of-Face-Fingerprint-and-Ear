@@ -11,16 +11,16 @@ The objective of this project is to develop a multimodal biometric authenticatio
 Convolutional Neural Networks are used to train each of the user's biometric trait and make the prediction. It is a "User Verification" problem, where the system will predict whether the user is authorized to access or not. It is a binary classification problem for each convolutional neural network.
 
 
-![](pics/Picture1.jpg)
+<img src="pics/Picture1.jpg" width= "600">
 
 Figure 1: The screenshot of the application GUI.
 
 When the user clicks on any of the biometric traits button, the system will access the webcam to get the images. The user needs to provide all three required biometric traits images to make prediction and gain access. 
 
-![](pics/Picture2.jpg)
+<img src="pics/Picture2.jpg" width= "600">
 
 Figure 2: The screenshot of the application predicting the authorization status of the user and giving a pop-up window with the message, “Access Granted”.
 
-![](pics/Picture3.jpg)
+<img src="pics/Picture3.jpg" width= "600">
 
 Figure 3: The screenshot of the application predicting the authorization status of the user and giving a pop-up window with the message, “Access Denied”.
